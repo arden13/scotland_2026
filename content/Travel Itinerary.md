@@ -1,3 +1,7 @@
+For those of you that want to follow us around to the other beautiful places in Scotland, here is our full travel Itinerary.
+
+Also see our [[Travel Tips]] for how to make your stay a little easier.
+
 1. Fly to [[Edinburgh]]
 	1. Fly out Sept 15
 	2. Flight Arrives Sept 16
@@ -22,18 +26,3 @@
 8. Overnight in [[Edinburgh]], evening Sept 30
 9. Fly [[Edinburgh]] to [[Newark]]
 	1. Oct 1
-
-# Follow Up Questions
-- [x] Can we return a car rented in [[Edinburgh]] or [[Inverness]] in [[Kirkwall]]?
-	- There's an AVIS rental, so presumably yes
-- [x] Do we want to do an overnight in [[Inverness]] just before going to the [[Orkney Islands]] to spend some time there?
-	- would be Sep 26
-
-# Todo items
-- [ ] Recommended items for smooth travel
-	- get Whatsapp
-	- download maps beforehand
-	- know that everything closes after ~9pm
-	- charger (recommend one w/ USB-C)
-	- Battery
-	- Splitwise
