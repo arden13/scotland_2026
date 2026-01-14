@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Ryan and Brittany's Anniversary Trip
 ---
+Welcome to the little website for Ryan and Brittany's upcoming 10y Anniversary Trip!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# [[Event Information]]
+
+# [[Travel Itinerary]]
+
