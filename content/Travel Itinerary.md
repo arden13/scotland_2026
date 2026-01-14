@@ -1,3 +1,7 @@
+---
+aliases:
+  - itinerary
+---
 For those of you that want to follow us around to the other beautiful places in Scotland, here is our full travel Itinerary.
 
 Also see our [[Travel Tips]] for how to make your stay a little easier.
