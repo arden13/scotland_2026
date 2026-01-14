@@ -1,22 +1,25 @@
-We're excited to host our event at [[Borthwick Castle]]!
+Welcome! We're excited to host our 10th anniversary celebration at [[Borthwick Castle]]! Food and lodging will be provided.
 
+> [!info] January 14th
+> We thought it would be a good idea to fill everyone in on some details about the event as we have them. Information will be added as the date approaches, so check back for the latest updates! 
 # Timeline
 ## September 16th
 Arrive at [[Borthwick Castle]]
 - 2:00 pm - Check-in
-- 6:00 pm - Dinner
+- Dinner
 ## September 17th
 The big day! 
-- 9:00 am - Breakfast
-- 12:00 pm - Lunch
+- Breakfast
+- Lunch
 Dress code for the event is **black tie**
 - 5:30 pm - Cocktail Hour
 - 7:00 pm - Dinner
 - 8:00 pm - Dancing!
 
 ## September 18th
-- 10:00 am - Brunch
-- 6:00 pm - Dinner
+- Breakfast
+- Lunch
+- Dinner
 ## September 19th
-- 10:00 am - Brunch
-Check out
+- Brunch
+- 11:00 am - Check out

@@ -1,7 +1,7 @@
 1. Fly to [[Edinburgh]]
 	1. Fly out Sept 15
 	2. Flight Arrives Sept 16
-2. Party
+2. [[Event Information|Party]]
 	1. Check in Sept 16
 	2. Check out Sept 19
 3. [[Edinburgh]]
