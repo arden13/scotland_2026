@@ -11,8 +11,8 @@ Arrive at [[Borthwick Castle]]
 The big day! 
 - Breakfast
 - Lunch
-Dress code for the event is **black tie**
 - 5:30 pm - Cocktail Hour
+  - Dress code for the event is **black tie**
 - 7:00 pm - Dinner
 - 8:00 pm - Dancing!
 
